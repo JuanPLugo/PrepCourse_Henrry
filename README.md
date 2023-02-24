@@ -1,2 +1,2 @@
-# PrepCourse_Henrry
-Repositorio de prueba del módulo dos del PrepCourse Henry
+Esto es un ejemplo de como crear y clonar un repositorio. 
+
